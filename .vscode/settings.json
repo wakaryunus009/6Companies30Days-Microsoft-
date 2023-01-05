@@ -32,5 +32,8 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-  ]
+  ],
+  "files.associations": {
+    "*.substrings containing all three characters": "cpp"
+  }
 }
